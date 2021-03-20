@@ -5,11 +5,11 @@
 
 <img src="2.gif" width="350">  
 
-## Videos on but a little laggy  
+## Videos on but a little laggy -> investigate  
 <img src="3.gif" width="350">  
 
 ## Work with just one for now  
 <img src="4.gif" width="350">
 
-## Adding different videos  
+## Fix frame bound issues and add in multiple videos   
 <img src="5.gif" width="350">
