@@ -26,7 +26,7 @@ class BubbleView: UIImageView {
     
     public func configure(with model: VideoModel) {
         self.model = model
-        configureVideo()
+//        configureVideo()
     }
 
     private func configureVideo() {

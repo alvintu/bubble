@@ -64,9 +64,9 @@
 		C2E98B2A26056E1F00449769 /* bubble */ = {
 			isa = PBXGroup;
 			children = (
+				C2E98B4D260583F800449769 /* 3.mp4 */,
 				C2E98B4326057BB200449769 /* 2.mp4 */,
 				C2E98B462605836B00449769 /* 1.mp4 */,
-				C2E98B4D260583F800449769 /* 3.mp4 */,
 				C2E98B2B26056E1F00449769 /* AppDelegate.swift */,
 				C2E98B2D26056E1F00449769 /* SceneDelegate.swift */,
 				C2E98B2F26056E1F00449769 /* ViewController.swift */,

@@ -39,6 +39,12 @@ class ViewController: UIViewController {
         for model in data {
             configureBubble(for: 80, and: model)
         }
+        
+        let barrier = UIView(frame: CGRect(x: 0, y: 300, width: 130, height: 20))
+        barrier.backgroundColor = UIColor.red
+        view.addSubview(barrier)
+        collision.addItem(barrier)
+
 
 
         // Do any additional setup after loading the view.
